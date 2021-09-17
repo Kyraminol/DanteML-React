@@ -1,0 +1,12 @@
+{
+  "generator": {
+    "title": "Dante Alighieri Text Generator",
+    "description": "Generate text like Dante Alighieri!",
+    "wordsLabel": "How many words should i generate?",
+    "wordsHelper": "This is the number of words that the neural network will generate (esclude punctuation)",
+    "inputTextLabel": "Do you want to give me some text input?",
+    "inputTextHelper": "You can leave it blank if you want",
+    "submit": "submit",
+    "result": "Generated Text"
+  }
+}
